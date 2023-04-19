@@ -1,0 +1,3 @@
+[16-Nov-2022 03:51:26 UTC] [Loco.warning] "Child theme declares the same Text Domain as the parent theme" in src/admin/bundle/ConfController.php:95
+[16-Nov-2022 03:55:44 UTC] [Loco.warning] "Child theme declares the same Text Domain as the parent theme" in src/admin/bundle/ConfController.php:95
+[16-Nov-2022 10:21:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'fbmcc_page_types' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Facebook_Messenger_Customer_Chat->fbmcc_update_notice, Facebook_Messenger_Customer_Chat->fbmcc_chat_is_enabled, get_option
